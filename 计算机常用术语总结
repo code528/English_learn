@@ -1,0 +1,10 @@
+# 术语注释（贴合 LLM 开发习惯）
+
+1. batteries-included：开箱即用，自带全套依赖 / 功能
+2. subagent-spawning：子智能体生成 / 孵化子 Agent
+3. harness：运行框架、执行基座
+4. orchestration framework：编排框架
+5. deterministic workflows：确定性工作流
+6. agentic workflows：智能体自主工作流
+7. observability：可观测性
+8. trace：链路追踪
